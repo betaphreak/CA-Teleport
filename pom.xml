@@ -29,6 +29,15 @@
                 </configuration>
             </plugin>
         </plugins>
+
+        <resources>
+            <resource>
+                <directory>resources</directory>
+                <includes>
+                    <include>plugin.yml</include>
+                </includes>
+            </resource>
+        </resources>
     </build>
 
     <dependencies>
@@ -38,6 +47,9 @@
             <version>1.12.2-R0.1-SNAPSHOT</version>
             <type>jar</type>
         </dependency>
+
     </dependencies>
+
+
 
 </project>

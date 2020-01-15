@@ -1,6 +1,6 @@
-author: RamsesA
+author: betaphreak
 database: false
-generator: http://dinnerbone.com/minecraft/tools/pluginator/
+generator: https://github.com/betaphreak/CA-Teleport
 main: org.craftingazeroth.plugins.cat.CATeleport
 name: CA-Teleport
 startup: startup
